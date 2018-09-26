@@ -1,3 +1,5 @@
 third line
 haha fourth line
 fifth line
+lets make a really stupid story >> file.txt
+echo lets make a really stupid story
